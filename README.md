@@ -1,6 +1,6 @@
 ## Improving Readability of an infographic Web Page
 
-[Go to March 1 Deliverables](# deliver)
+[Go to March 1 Deliverables](#deliver)
 
 ## Team Members
 Dharmendra Vaghela, Rohit Mandge, Rupaj Soni, Aditya Mandhare
