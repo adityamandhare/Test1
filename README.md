@@ -18,7 +18,7 @@ In this solution, we first scan the page to search for images contained in it. T
 **[Solution 3](https://github.com/DharmendraVaghela/csc510-grp-e/tree/master/Chrome_Extension_New_Tab): Click on image reference to open image it in a new tab**
 The “alt” value of the “img” tag associated with each image is stored in a map. If the page source contains any key from the map, the text is converted to a hyperlink. When the user clicks on this link, a new tab opens with the source image. The user can switch between tabs as and when required and refer the desired images without disrupting his continuity.
 
-## <h4 name="deliver">March 1 Deliverables</h4>
+<h4 id="deliver">March 1 Deliverables</h4>
 
 1. [Issues page](https://github.com/DharmendraVaghela/csc510-grp-e/issues)
 
